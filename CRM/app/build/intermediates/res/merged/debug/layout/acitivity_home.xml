@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.hrd.crm"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_app"
+    android:fillViewport="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/dp50"
+        android:background="#ffffff"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_header_enterprise_logo" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#f98923" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="1" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.4"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="1" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="0.5"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/ivPeople"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="10.0dip"
+                            android:src="@drawable/slc_people" />
+
+                        <com.hrd.custom.HrdTextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:text="@string/people"
+                            android:textColor="#ffffffff"
+                            android:textSize="@dimen/dp18"
+                            app:fontName="@string/fontRoboto" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="0.5"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/ivTodo"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="10.0dip"
+                            android:src="@drawable/slc_todo" />
+
+                        <com.hrd.custom.HrdTextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:text="@string/toDo"
+                            android:textColor="#ffffffff"
+                            android:textSize="@dimen/dp18"
+                            app:fontName="@string/fontRoboto" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:weightSum="1" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="0.5"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/ivCalender"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="10.0dip"
+                            android:src="@drawable/slc_calender" />
+
+                        <com.hrd.custom.HrdTextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:text="@string/calender"
+                            android:textColor="#ffffffff"
+                            android:textSize="@dimen/dp18"
+                            app:fontName="@string/fontRoboto" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="0.5"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/ivSettings"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.5"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="10.0dip"
+                            android:src="@drawable/slc_settings" />
+
+                        <com.hrd.custom.HrdTextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:text="@string/settings"
+                            android:textColor="#ffffffff"
+                            android:textSize="@dimen/dp18"
+                            app:fontName="@string/fontRoboto" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:weightSum="1" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="0.5"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/ivComunity"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="10.0dip"
+                            android:src="@drawable/slc_comunity" />
+
+                        <com.hrd.custom.HrdTextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:text="@string/comunity"
+                            android:textColor="#ffffffff"
+                            android:textSize="@dimen/dp18"
+                            app:fontName="@string/fontRoboto" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="0.5"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/ivReports"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.5"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="10.0dip"
+                            android:src="@drawable/slc_reports" />
+
+                        <com.hrd.custom.HrdTextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:text="@string/reports"
+                            android:textColor="#ffffffff"
+                            android:textSize="@dimen/dp18"
+                            app:fontName="@string/fontRoboto" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:weightSum="1" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="0.5"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/ivEmail"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="0.5"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="10.0dip"
+                            android:src="@drawable/slc_email" />
+
+                        <com.hrd.custom.HrdTextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:text="@string/emailTemplate"
+                            android:textColor="#ffffffff"
+                            android:textSize="@dimen/dp18"
+                            app:fontName="@string/fontRoboto" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="0.5"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:id="@+id/ivBackup"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.5"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="10.0dip"
+                            android:src="@drawable/slc_backup" />
+
+                        <com.hrd.custom.HrdTextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:contentDescription="@string/app_name"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:text="@string/backup"
+                            android:textColor="#ffffffff"
+                            android:textSize="@dimen/dp18"
+                            app:fontName="@string/fontRoboto" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.6"
+                android:gravity="center|bottom"
+                android:orientation="vertical" >
+
+                <com.hrd.custom.HrdTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:padding="10.0dip"
+                    android:text="@string/leadConnectMsg"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/dp14"
+                    app:fontName="@string/fontRoboto" />
+
+                <com.hrd.custom.HrdTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:padding="10.0dip"
+                    android:text="@string/contactConnectMsg"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/dp14"
+                    app:fontName="@string/fontRoboto" />
+
+                <com.hrd.custom.HrdTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:padding="10.0dip"
+                    android:text="@string/taskCompleteMsg"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/dp14"
+                    app:fontName="@string/fontRoboto" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

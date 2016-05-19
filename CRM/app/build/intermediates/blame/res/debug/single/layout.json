@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/cust_toast.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/cust_toast.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/acitivity_login.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/acitivity_login.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/acitivity_add_lead.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/acitivity_add_lead.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/acitivity_begin.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/acitivity_begin.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/footer.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/footer.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/row_lead.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/row_lead.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/acitivity_people.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/acitivity_people.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/acitivity_home.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/acitivity_home.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/terms_and_condition_activity.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/terms_and_condition_activity.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/layout/acitivity_lead.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/layout/acitivity_lead.xml"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_leads.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_leads.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_follow_up.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_follow_up.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_backup.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_backup.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_import.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_import.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/bg_signin.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/bg_signin.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_todo.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_todo.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_comunity.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_comunity.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_calender.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_calender.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/tost_container.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/tost_container.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_export.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_export.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_people.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_people.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_email.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_email.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/bg_yellow.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/bg_yellow.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/bg_edittext.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/bg_edittext.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/bg_red.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/bg_red.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_contact.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_contact.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_reports.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_reports.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/slc_settings.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/slc_settings.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/bg_signup.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/bg_signup.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable/editext_style.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable/editext_style.xml"
+    }
+]

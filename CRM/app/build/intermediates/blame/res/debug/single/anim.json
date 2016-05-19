@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/anim/fade_in.xml"
+    }
+]

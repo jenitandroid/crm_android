@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_settings.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_people.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_people.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_reports.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_reports.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_reports_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_reports_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_import_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_import_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_email_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_email_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_todo.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_todo.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_calender.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_calender.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_google_plus.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_google_plus.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_back.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_app.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/bg_app.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_join_twitter.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_join_twitter.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_join_facebook.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_join_facebook.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_follow_up.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_follow_up.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_backup.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_backup.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_contacts.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_contacts.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_settings_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_settings_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_people_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_people_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_todo_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_todo_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_calender_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_calender_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_header_enterprise_logo.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_header_enterprise_logo.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_follow_up_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_follow_up_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_spinner_dwn.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_spinner_dwn.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_import.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_import.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_community_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_community_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_contacts_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_contacts_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_email.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_export.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_export.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_export_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_export_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_leads.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_leads.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_backup_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_backup_selected.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_community.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_community.png"
+    },
+    {
+        "merged": "/Users/bhavilad/Desktop/Project/CRM/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_leads_selected.png",
+        "source": "/Users/bhavilad/Desktop/Project/CRM/app/src/main/res/drawable-xhdpi/ic_leads_selected.png"
+    }
+]

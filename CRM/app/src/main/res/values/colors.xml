@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grayColor">#ffa6a6a6</color>
+    <color name="darkGrayColor">#ff808080</color>
+    <color name="black">#ff000000</color>
+    <color name="borderGrayColor">#ffcccccc</color>
+    <color name="themeColor">#ff003366</color>
+    <color name="green">#ff36d400</color>
+    <color name="blue">#ff00b0f0</color>
+    <color name="yellow">#ffe69138</color>
+    <color name="red">#cc0000</color>
+    <color name="white">#ffffff</color>
+    
+    <color name="referel">#6aa84f</color>
+    <color name="cold">#3c78d8</color>
+    <color name="warn">#e69138</color>
+   
+</resources>

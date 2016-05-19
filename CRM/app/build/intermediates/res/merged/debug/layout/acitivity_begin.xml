@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.hrd.crm"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_app"
+    android:fillViewport="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/dp50"
+        android:background="#ffffff"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_header_enterprise_logo" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#f98923" />
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="2.0" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingLeft="20.0dip"
+                android:paddingRight="20.0dip" >
+
+                <com.hrd.custom.HrdTextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:padding="10.0dip"
+                    android:text="@string/app_name"
+                    android:textColor="#ff000000"
+                    android:visibility="invisible"
+                    android:textSize="@dimen/dp25"
+                    app:fontName="@string/fontRoboto" />
+
+                <com.hrd.custom.HrdTextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:padding="10.0dip"
+                    android:text="@string/solo"
+                    android:visibility="invisible"
+                    android:textColor="#ff000000"
+                    android:textSize="@dimen/dp16"
+                    app:fontName="@string/fontRoboto" />
+
+                <com.hrd.custom.HrdTextView
+                    android:id="@+id/txtBegin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@drawable/bg_yellow"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:padding="10.0dip"
+                    android:text="@string/begin"
+                    android:textColor="#ff000000"
+                    android:textSize="@dimen/dp14"
+                    app:fontName="@string/fontRoboto" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:gravity="center|bottom"
+                android:orientation="vertical"
+                android:padding="15.0dip" >
+
+                <com.hrd.custom.HrdTextView
+                    android:id="@+id/txtQuote"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10.0dip"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:text="@string/sampleQuote"
+                    android:textColor="#ffffffff"
+                    android:textSize="@dimen/dp18"
+                    app:fontName="@string/fontRoboto" />
+
+                <com.hrd.custom.HrdTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:text="@string/copyright"
+                    android:textColor="#ffffffff"
+                    android:textSize="@dimen/dp14"
+                    app:fontName="@string/fontRoboto" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

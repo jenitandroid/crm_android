@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.hrd.crm"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_app"
+    android:fillViewport="true"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="3.0" >
+
+            <com.hrd.custom.HrdTextView
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.9"
+                android:contentDescription="@string/app_name"
+                android:gravity="center"
+                android:padding="10.0dip"
+                android:text="@string/app_name"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/dp25"
+                app:fontName="@string/fontRoboto" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingLeft="20.0dip"
+                android:paddingRight="20.0dip" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_edittext"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="10.0dip" >
+
+                    <com.hrd.custom.HrdTextView
+                        android:layout_width="@dimen/dp22"
+                        android:layout_height="@dimen/dp22"
+                        android:text="@string/icUser"
+                        android:textColor="@color/grayColor"
+                        android:textSize="@dimen/dp22"
+                        app:fontName="@string/fontIcon" />
+
+                    <com.hrd.custom.HrdEditText
+                        android:id="@+id/edtUserName"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#00000000"
+                        android:gravity="left|center"
+                        android:hint="@string/username"
+                        android:singleLine="true"
+                        android:textColor="#ffa6a6a6"
+                        android:textColorHint="#ffa6a6a6"
+                        android:textSize="@dimen/dp16"
+                        app:fontName="@string/fontRoboto" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_edittext"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="10.0dip" >
+
+                    <com.hrd.custom.HrdTextView
+                        android:layout_width="@dimen/dp22"
+                        android:layout_height="@dimen/dp22"
+                        android:text="@string/icPassword"
+                        android:textColor="@color/grayColor"
+                        android:textSize="@dimen/dp22"
+                        app:fontName="@string/fontIcon" />
+
+                    <com.hrd.custom.HrdEditText
+                        android:id="@+id/edtPassword"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#00000000"
+                        android:gravity="left|center"
+                        android:hint="@string/password"
+                        android:inputType="textPassword"
+                        android:singleLine="true"
+                        android:textColor="#ffa6a6a6"
+                        android:textColorHint="#ffa6a6a6"
+                        android:textSize="@dimen/dp16"
+                        app:fontName="@string/fontRoboto" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10.0dip"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:weightSum="1.0" >
+
+                    <com.hrd.custom.HrdTextView
+                        android:id="@+id/icRegister"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.5"
+                        android:background="@drawable/bg_signup"
+                        android:contentDescription="@string/app_name"
+                        android:gravity="center"
+                        android:padding="5.0dip"
+                        android:text="@string/signup"
+                        android:textColor="#ffffffff"
+                        android:textSize="@dimen/dp14"
+                        app:fontName="@string/fontRoboto" />
+
+                    <com.hrd.custom.HrdTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:tag="700"
+                        android:text="  or  "
+                        android:textColor="#ffffffff"
+                        app:fontName="@string/fontRoboto" />
+
+                    <com.hrd.custom.HrdTextView
+                        android:id="@+id/icLoginBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.5"
+                        android:background="@drawable/bg_signin"
+                        android:gravity="center"
+                        android:padding="5.0dip"
+                        android:text="@string/signinLogin"
+                        android:textColor="#ffffffff"
+                        android:textSize="@dimen/dp14"
+                        app:fontName="@string/fontRoboto" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="20.0dip"
+                android:layout_weight="1.1"
+                android:background="#fff7f7f7"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="15.0dip" >
+
+                <ImageView
+                    android:id="@+id/icLoginFacebook"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10.0dip"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:src="@drawable/ic_join_facebook" />
+
+                <ImageView
+                    android:id="@+id/icLoginTwitter"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10.0dip"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:src="@drawable/ic_google_plus" />
+
+                <com.hrd.custom.HrdTextView
+                    android:id="@+id/ivForgotPass"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="center"
+                    android:text="@string/forgotpassword"
+                    android:textColor="#ff1a1a1a"
+                    app:fontName="@string/fontRoboto" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

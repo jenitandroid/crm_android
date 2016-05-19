@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.hrd.crm"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/themeColor"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1.5" >
+
+        <LinearLayout
+            android:id="@+id/llListNewMed"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:orientation="vertical"
+            android:padding="10.0dip" >
+
+            <com.hrd.custom.HrdTextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/dp16"
+                app:fontName="@string/fontIcon" />
+
+            <com.hrd.custom.HrdTextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Medicines"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/dp16"
+                app:fontName="@string/fontRoboto" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1.0dip"
+            android:layout_height="fill_parent"
+            android:background="#ffffff" />
+
+        <LinearLayout
+            android:id="@+id/llListTab"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:orientation="vertical"
+            android:padding="10.0dip" >
+
+            <com.hrd.custom.HrdTextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/dp16"
+                app:fontName="@string/fontIcon" />
+
+            <com.hrd.custom.HrdTextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="All Docs"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/dp16"
+                app:fontName="@string/fontRoboto" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1.0dip"
+            android:layout_height="fill_parent"
+            android:background="#ffffff" />
+
+        <LinearLayout
+            android:id="@+id/llMediTab"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:orientation="vertical"
+            android:padding="10.0dip" >
+
+            <com.hrd.custom.HrdTextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/dp16"
+                app:fontName="@string/fontIcon" />
+
+            <com.hrd.custom.HrdTextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Imp Docs"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/dp16"
+                app:fontName="@string/fontRoboto" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CRM Follow­Up</string>
+    <string name="fontRoboto">Oswald-Regular.ttf</string>
+    <string name="fontIcon">fontawesome-webfont.ttf</string>
+    <string name="icUser"></string>
+    <string name="icPassword"></string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="signinLogin">Login</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="begin">Begin</string>
+    <string name="solo">Solo</string>
+    <string name="sampleQuote">"The meaning of life is to give life a meaning" - Joe Shmoe</string>
+    <string name="copyright">© 2016 Support Visions</string>
+    <string name="crMsg">I agree to all this terms.</string>
+
+    <!-- Backend Configuration -->
+    <string name="json">.json</string>
+    <string name="api_logic_error">Invite:</string>
+    <string name="api_login_alert">Login required:</string>
+    <string name="api_login_msg">Please login to continue.</string>
+    <string name="api_unauthorized_alert">Unauthorized:</string>
+    <string name="api_unauthorized_msg">Please check user permissions.</string>
+    <string name="api_no_internet_alert">No Internet:</string>
+    <string name="api_no_internet_msg">Please check your Internet connection.</string>
+    <string name="api_server_alert">Unable to communicate:</string>
+    <string name="api_server_msg">Please try again in a few moments</string>
+    <string name="api_error_alert">API ERROR:</string>
+    <string name="api_error_msg">Please check API DOCS.</string>
+    <string name="api_unexpected_error_alert">UNEXPECTED ERROR:</string>
+    <string name="api_unexpected_error_msg">Please contact developer.</string>
+    <string name="api_file_upload_fail">Unable to upload file. </string>
+    <string name="process_progress_msg">Please wait...</string>
+    <string name="alert">Invite</string>
+    <string name="ok">OK</string>
+    <string name="loading">Loading...</string>
+
+    <!-- Home Screen -->
+    <string name="people">PEOPLE</string>
+    <string name="toDo">TO DO</string>
+    <string name="calender">CALENDER</string>
+    <string name="reports">REPORTS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="comunity">COMMUNITY</string>
+    <string name="backup">BACKUP/RESTORE</string>
+    <string name="emailTemplate">EMAIL TEMPLATES</string>
+    <string name="leadConnectMsg">22 Leads to connect with</string>
+    <string name="contactConnectMsg">15 Contacts to connect with</string>
+    <string name="taskCompleteMsg">3 tasks to complete</string>
+
+    <!-- People Screen -->
+    <string name="leads">Leads</string>
+    <string name="contacts">Contacts</string>
+    <string name="forwarded">Forwarded</string>
+    <string name="dontCallLst">Don\'t Call list</string>
+
+    <!-- Leads Screen -->
+    <string name="icSearch">&#xf002;</string>
+    <string name="icMobile">&#xf10b;</string>
+    <string name="icEmail">&#xf003;</string>
+    <string name="icFilter">&#xf0b0;</string>
+    <string name="icPlus">&#xf067;</string>
+    <string name="icSort">&#xf0dc;</string>
+    <string name="icChecked">&#xf046;</string>
+    <string name="icMove">&#xf064;</string>
+    <string name="search">Search</string>
+
+    <!-- Lead Details -->
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="lastActivity">Last Activity</string>
+    <string name="lstContct">Day\'s since last contact</string>
+    <string name="relationShip">Relationship</string>
+    <string name="leadadded">Lead Added</string>
+    <string name="title">Title</string>
+    <string name="company">Company</string>
+    <string name="deskPhone">Desk Phone</string>
+    <string name="address">Address</string>
+    <string name="mobilePhone">Mobile Phone</string>
+    <string name="officePhone">Office Phone</string>
+    <string name="email">Email</string>
+    <string name="icMap">&#xf279;</string>
+    <string name="Addleads">Add Lead</string>
+    <string name="ViewLeads">View Lead</string>
+    <string name="icDown">&#xf0d7;</string>
+    <string name="industry">Industry</string>
+    <string name="source">Source</string>
+    <string name="addNote">Add Note</string>
+    <string name="icHistory">&#xf1da;</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="followUpOn">Follow-up on</string>
+    <string name="followUp">FOLLOW-UP</string>
+    <string name="import_cap">IMPORT</string>
+    <string name="export">EXPORT</string>
+    <string name="lead">LEADS</string>
+    <string name="contact">CONTACTS</string>
+    <string name="terms_and_condition_text"><![CDATA[<h1><u>End-User Licence Agreement</u></h1><b>IMPORTANT: Read the following terms carefully before installing, using and copying the Software Application. By installing, using and copying the Software Application, you agree to accept all of the following terms. If you do not agree with the terms of this EULA, you may not install or use the Software Application.</b><br> <p>This End-User Licence Agreement (\"EULA\"), effective as of the date you accept the Software Application, is a legal contract, entered into between Local Business Apps, Pty Ltd. (\"LocalApps\"), with an address at Level 2, 189 Rouse Street, Port Melbourne, VIC 3207 (\"Developer\") and you, the end-user (\"End-User\") of this Software Application. You specifically acknowledge that there is no other Agreement between you and LocalApps, that is in effect, which prevents you from entering into this Agreement. The parties agree as follows:</p> <b><h2>1.&nbsp;<u>SCOPE</u></h2></b> <span><b>1.1</b> &nbsp;</span> In accordance with the terms herein, LocalApps grants to you, and you accept from LocalApps, a non-exclusive, limited licence, to use the current version of our Software Applicationon any electronic device that you own or control, and as may be permitted by the Usage Rules set forth in the company�swebsite or other documentation.Domestic and international copyright laws and treaties protect this Software Application. The Software Applicationis licensed, not sold. All rights not expressly granted are reserved by LocalApps.<p></p><span><b>1.2</b> &nbsp;</span>You represent and warrant that (i) you are not located in a country that is subject to a Government embargo, or that has been designated by the Government as a \"terrorist supporting\" country; and (ii) you are not listed on any Government list of prohibited or restricted parties<b><h2>2.&nbsp;<u>DEFINITIONS</u></h2></b><q><b>Software Application</b></q>means the LocalApps software accompanying this EULA, which includes executable modules and electronic documentation and may include associated media, printed materials and information available at the product web site, protected by international copyright laws. The Software Application also includes any updates and supplements to the original Software Application provided by LocalApps <b><h2>3.&nbsp;<u>GRANT OF LICENCE</u></h2></b><span><b>3.1</b> &nbsp;</span>LocalApps grants you a limited, non-exclusivelicence, to install, use, access, display, run, or otherwise interact with (\"Use\") the Software Application. The Software Application is provided to you for your own personal use only, and it may not be used for any commercial or educational purposes, at educational institutions or non-profit organizations, other than as permitted herein.<br><p></p><span><b>3.2</b> &nbsp;</span>The EULA permits use of the Software Application during an unlimited period, at a cost that is designated under separate agreement. The Software Application may be used as many times as you like, for as long as you like, pending your adherence to this Agreement. <br><p></p> <b><h2>4.&nbsp;<u>DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS</u></h2></b> <span><b>4.1</b> &nbsp;</span>You may not resell, or otherwise transfer, the Software Application, under any circumstances.<br><p></p><span><b>4.2</b> &nbsp;</span>You may not make modifications to the Software Application, or decompile, disassemble, reverse engineer or modify the Software Application or any portion of it. You may not combine other commercial applications with, or otherwise prepare derivative works of, the Software Application.<br><p></p><span><b>4.3</b> &nbsp;</span>The Software Application is licensed as a single product. Its component parts may not be separated.<br><p></p><span><b>4.4</b> &nbsp;</span>This EULA does not grant you any rights in connection with any trademarks or service marks of LocalApps or sub-vendors or distributors of this Software Application.<br><p></p><span><b>4.5</b> &nbsp;</span>You may not rent, lease, or lend the Software Application to others.<br><p></p><span><b>4.6</b> &nbsp;</span>You may not make any transfers of this EULA and Software Application to a third-party, except as specifically allowed by this Licence.<br><p></p><b><h2>5.&nbsp;<u>COPYRIGHT AND INTELLECTUAL PROPERTY RIGHTS</u></h2></b><span><b>5.1</b> &nbsp;</span>The title and all rights in, and to, the Software Application (including, but not limited to, any images, photographs, animations, video, audio, music, text, and \"applets\" incorporated into the Software Application), the accompanying printed materials, and all copies of the Software Application are owned, at all times, by LocalApps. All title and intellectual property rights in, and to, the content that may be accessed through use of the Software Application, is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. Software Application documentation is provided in electronic form. You may print one copy of such electronic documentation. You may not copy the printed materials accompanying the Software Application<br><p></p><span><b>5.2</b> &nbsp;</span>In the event of any third-party claim that the Software Application or your possession and use of the Software Application infringes that third-party�s intellectual property rights, LocalAppswill be solely responsible for the investigation, defence, settlement and discharge of any such intellectual property infringement claim, subject to LocalApps being indemnified by you for any actions of yours that creates a liability on the part of LocalApps.<br><p></p><b><h2>6.&nbsp;<u>LIMITED WARRANTY</u></h2></b><span><b>6.1</b> &nbsp;</span>UNLESS OTHERWISE EXPLICITLY AGREED TO IN WRITING, LOCALBUSINESSAPPS MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED, IN FACT OR IN LAW, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OTHER THAN AS SET FORTH IN THIS EULA OR IN THE TERMS OF SERVICE PROVIDED ON LOCALBUSINESSAPPS� WEBSITE<br><p></p><span><b>6.2</b> &nbsp;</span>THE SOFTWARE APPLICATION, PROVIDED FROM OR THROUGH LOCALBUSINESSAPPS, IS PROVIDED \"AS-IS.\"<br><p></p><span><b>6.3</b> &nbsp;</span>You acknowledge that LocalApps has no obligation, whatsoever, to furnish any warranty, nor any maintenance and support services, with respect to the Software Application.<br><p></p><span><b>6.4</b> &nbsp;</span>LocalApps makes no warranty that the Software Application will meet your requirements or operate under your specific conditions of use.LocalAppsmakes no warranty that operation of the Software Application will be secure, error free, or free from interruption. LocalApps warrants that Software Application will conform, as to all substantial operational features, to LocalApps� current published specifications, when installed, and will be free of defects that substantially affect system performance<br><p></p><span><b>6.5</b> &nbsp;</span>YOU MUST DETERMINE WHETHER THE SOFTWARE APPLICATION SUFFICIENTLY MEETS YOUR REQUIREMENTS FOR SECURITY AND UNINTERRUPTABILITY. YOU BEAR SOLE RESPONSIBILITY AND ALL LIABILITY FOR ANY LOSS INCURRED DUE TO FAILURE OF THE SOFTWARE APPLICATION TO MEET YOUR REQUIREMENTS. LOCALBUSINESSAPPS WILL NOT, UNDER ANY CIRCUMSTANCES, BE RESPONSIBLE OR LIABLE FOR THE LOSS OF DATA ON ANY ELECTRONIC OR INFORMATION STORAGE DEVICE.<br><p></p><b><h2>7.&nbsp;<u>DISCLAIMER OF DAMAGES</u></h2></b><span><b>7.1</b> &nbsp;</span>Under no circumstances shall LocalApps, its directors, officers, employees or agents, be liable to you or any other party for indirect, consequential, special, incidental, punitive or exemplary damages of any kind (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) resulting from this EULA or from the furnishing, performance, installation, use, or inability to use the Software Application, whether due to a breach of contract, breach of warranty or the negligence of LocalApps or any other party, even if LocalApps is advised beforehand of the possibility of such damages. To the extent that an applicable jurisdiction limits LocalApps� ability to disclaim any implied warranties, this disclaimer shall be effective to the maximum extent permitted.<br><p></p><span><b>7.2</b> &nbsp;</span>In the event of any failure of the Software Application to conform to the limited warranty provided in paragraph 6, above, you may notify LocalApps, who will determine whether a refund of any purchase price paid for the Software Application is due you; further, LocalApps will have no other warranty obligation, whatsoever, with respect to the Software Application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to the limited warranty will be LocalApps� sole responsibility<br><p></p><b><h2>8.&nbsp;<u>TERM AND TERMINATION</u></h2></b><span><b>8.1</b> &nbsp;</span>This EULA comes into effect when you install the Software Application on your compatibleelectronic device,and is effective for the entire period of use of the Software Application.<br><p></p><span><b>8.2</b> &nbsp;</span>Any use by you, in violation of this EULA, shall constitute not only breach of this EULA, but also a violation of domestic and international copyright laws. Any use of the Software Application that infringes upon LocalApps� intellectual property rights or that is used for commercial purposes, will be investigated and LocalApps shall have the right to take appropriate civil and criminal legal action<br><p></p><span><b>8.3.</b> &nbsp;</span>  Without prejudice to any other rights, LocalApps may terminate this EULA if you fail to comply with its terms and conditions. In such event, you must uninstall and destroy all copies of the Software Application and all of its component parts.<br><p></p><b><h2>9.&nbsp;<u>GOVERNING LAW</u></h2></b><span><b></b> &nbsp;</span>This Agreement shall be treated as though it were executed and performed in,and shall be governed by and construed in accordance with, the laws of the State of Victoria and Australia, without regard to conflict of law principles. Any cause of action of User, with respect to the Software Application, must be instituted within thirty- (30) days after any download or acceptance of the Software Application from LocalApps, or be forever waived and barred. All actions shall be subject to the limitations set forth in Sections 7 & 8. <br><p></p><b><h2>10.&nbsp;<u>LITIGATION</u></h2></b>All legal proceedings arising out of or in connection with this Agreement shall be brought solely in the State of Victoria, Australia and User expressly submits to the jurisdiction of said courts and User consents to extra-territorial service of process. Should any part of this Agreement be held invalid or unenforceable, that portion shall be construed consistent with applicable law as nearly as possible to reflect the original intentions of the parties and the remaining portions shall remain in full force and effect. To the extent that anything in, or associated with, the Software Application or LocalApps, is in conflict or inconsistent with this Agreement, this Agreement shall take precedence. Failure of LocalApps to enforce any provision of this Agreement shall not be deemed a waiver of such provision nor of the right to enforce such provision.<br><p></p>]]></string>
+
+</resources>
